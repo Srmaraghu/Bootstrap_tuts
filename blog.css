@@ -1,0 +1,9 @@
+.carousel-caption.d-none.d-md-block h2,
+.carousel-caption.d-none.d-md-block p {
+    color: white;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    color: white;
+}
